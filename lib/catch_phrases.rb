@@ -12,5 +12,4 @@ def link
 end
 
 def all_phrases
-puts Mario
 end
